@@ -36,5 +36,8 @@ I'm a passionate individual with a diverse skill set and a keen interest in tech
 ## Fun Fact
 
 - ⚡ Fun fact: I'm a big fan of solving puzzles and brain teasers in my spare time!
+- ⚡ I have a secret talent for impersonating famous personalities, especially when coding! 😄🎭
+- ⚡ I'm a firm believer in the motto "Work hard, play hard," and always strive to find the perfect balance between productivity and relaxation. 🕺💼
+- ⚡ My dream is to travel the world and experience different working skills and companies. 🌍✈️
 
 Thanks for stopping by! Feel free to explore my repositories and don't forget to star ⭐️ any (from zero 0/0 😁) repositories you find interesting and feel free to reach out for collaboration or just to say hi! Happy coding! 😊
